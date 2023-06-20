@@ -2,3 +2,4 @@ hi
 how about your learning
 how it is going 
 This are the new changes that made to the alice.txt file
+there is something new we are adding to the file
